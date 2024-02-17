@@ -1,19 +1,17 @@
 # csv_product
-Shopify product CSVs and images to get your Shopify development stores started with great product data. 
-
 Uploading products to a Shopify store using a CSV file involves several steps. Here's a step-by-step guide:
 
-1. Prepare Your CSV File:
+1. **Prepare Your CSV File:**
    - Ensure your CSV file follows Shopify's CSV requirements. You can find the template and guidelines [here](https://help.shopify.com/en/manual/products/import-export/using-csv).
    - Make sure your CSV file includes all necessary product information such as title, description, price, SKU, etc.
 
-2. Access Your Shopify Admin:
+2. **Access Your Shopify Admin:**
    - Log in to your Shopify admin panel using your credentials.
 
-3. Navigate to Products:
+3. **Navigate to Products:**
    - From the Shopify admin, go to the "Products" section.
 
-4. Click on "Import":
+4. **Click on "Import":**
    - In the Products section, click on the "Import" button.
 
 5. **Choose CSV File:**
